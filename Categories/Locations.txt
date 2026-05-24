@@ -1,0 +1,1999 @@
+Wizard's Potion Lab
+
+Spellbook Library Tower
+
+Dragon's Treasure Hoard
+
+Elven Treehouse City
+
+Dwarf Gold Mine Tunnel
+
+Fairy Princess Throne Room
+
+Goblin Blacksmith Forge
+
+Flying Castle Courtyard
+
+Enchanted Forest Clearing
+
+Talking Tree Roots
+
+Mermaid Coral Palace
+
+Sunken Pirate Galleon Deck
+
+Pirate Captain's Cabin
+
+Smuggler's Sea Cave
+
+Treasure Island Beach
+
+Knight’s Training Yard
+
+Medieval Castle Drawbridge
+
+Castle Great Hall Banquet
+
+Castle Dungeon Cells
+
+Royal Armory Shield Wall
+
+Stone Circles (Stonehenge)
+
+Druid Sacred Grove
+
+Ancient Egyptian Pyramid Maze
+
+Sphinx Base Dig Site
+
+Roman Coliseum Arena Floor
+
+Roman Bath House Pool
+
+Greek Parthenon Columns
+
+Viking Longhouse Hearth
+
+Viking Longship Rowing Deck
+
+Mayan Jungle Pyramid Top
+
+Wild West Saloon (Family Version)
+
+Wild West Sheriff's Office
+
+Wild West Bank Vault
+
+Pioneer Log Cabin Hearth
+
+Covered Wagon Train Camp
+
+Victorian Steampunk Workshop
+
+Clockwork Airship Bridge
+
+Mad Scientist Tesla Coil Lab
+
+Spaceship Command Bridge
+
+Spaceship Engine Warp Room
+
+Spaceship Teleporter Pad
+
+Spaceship Medical Bay
+
+Spaceship Hydroponics Deck
+
+Spaceship Cargo Airlock
+
+Space Station Observation Dome
+
+Moon Base Biodome Greenhouse
+
+Moon Base Rover Garage
+
+Mars Colony Habitat Unit
+
+Alien Jungle Bioluminescent Path
+
+Flying Saucer Control Console
+
+Cyberpunk Neon Street Market
+
+Robot Assembly Factory Floor
+
+Time Machine Chamber
+
+Prehistoric Dinosaur Valley
+
+Ice Age Mammoth Hunters Camp
+
+Atlantis Sunken Plaza
+
+Flying Pegasus Cloud Stable
+
+Phoenix Nest Volcanic Peak
+
+Centaur Forest Camp
+
+Minotaur Labyrinth Wall
+
+Superhero Secret Hideout
+
+Superhero Costume Wardrobe
+
+Supervillain Volcano Lair Control
+
+Secret Agent Underground Base
+
+Spy Gadget Laboratory
+
+Flying Car Mechanics Garage
+
+Floating City Sky Dock
+
+Undersea Dome City Street
+
+Cloud Kingdom Palace Gate
+
+Candy Land Gingerbread House
+
+Toy Maker's Magic Workshop
+
+Santa's North Pole Workshop
+
+Elf Toy Painting Station
+
+Reindeer Sled Barn
+
+Easter Bunny Egg Painting Lab
+
+Halloween Witch Cauldron Hut
+
+Haunted Graveyard Mausoleum
+
+Ghostly Ship Deck
+
+Leprechaun Rainbow End Pot
+
+Genie Magic Lamp Interior
+
+Cloud Castle Giant's Kitchen
+
+Beanstalk Climbing Vine
+
+Wonderland Mad Tea Party
+
+Cheshire Cat Forest Branch
+
+Queen of Hearts Croquet Lawn
+
+Oz Emerald City Gate
+
+Yellow Brick Road Path
+
+Wizard of Oz Balloon Basket
+
+Atlantis Library Archives
+
+Steampunk Submarine Galley
+
+Hover-Train Dining Car
+
+Space Mining Asteroid Shaft
+
+Intergalactic Trading Outpost
+
+Alien Planet Crystal Cave
+
+Hologram Testing Chamber
+
+Gravity-Defying Training Room
+
+Deep-Space Cryo-Sleep Pod Room
+
+Time Travel Portal Arch
+
+Parallel Universe Gateway
+
+Grand Finale Celebration Stage
+
+Living Room Sofa Corner
+
+Family Room TV Area
+
+Kitchen Island Bench
+
+Kitchen Pantry Shelves
+
+Dining Room Table Setting
+
+Master Bedroom Wardrobe
+
+Children's Bedroom Bunk Bed
+
+Nursery Crib Corner
+
+Guest Bedroom Bed
+
+Home Office Desk
+
+Hallway Linen Closet
+
+Bathroom Medicine Cabinet
+
+Shower Stall
+
+Bathtub Corner
+
+Laundry Room Washer Area
+
+Ironing Board Station
+
+Walk-In Closet
+
+Attic Storage Boxes
+
+Basement Workbench
+
+Crawl Space
+
+Two-Car Garage Space
+
+Workbench Tool Rack
+
+Front Porch Rocking Chair
+
+Back Deck Grill Area
+
+Patio Dining Set
+
+Backyard Lawn
+
+Backyard Treehouse
+
+Children's Sandbox (Yard)
+
+Backyard Garden Shed
+
+Compost Bin Corner
+
+Rain Barrel Station
+
+Driveway Basketball Hoop
+
+Front Mailbox Post
+
+Backyard Clothesline
+
+Fenced Dog Runway
+
+Fish Pond (Yard)
+
+Swimming Pool Shallow End
+
+Hot Tub Deck
+
+Hammock Tree Space
+
+Apartment Balcony
+
+Apartment Lobby Desk
+
+Apartment Mailroom Alcove
+
+Rooftop Clothes Drying Area
+
+Condominium Courtyard
+
+Suburban Sidewalk
+
+Cul-de-Sac Center
+
+Neighborhood Tree Swing
+
+Block Party Barbecue Grill
+
+Local School Bus Stop
+
+Treehouse Club Cabin
+
+Fort Built of Couch Pillows
+
+Blanket Tent Living Room
+
+Reading Nook Window Seat
+
+Playroom Toy Box Area
+
+Sewing Room Table
+
+Craft Room Storage Bins
+
+Home Gym Treadmill Space
+
+Home Theater Seating Row
+
+Wine Cellar Racks (Family-friendly Vault)
+
+Root Cellar Vegetable Bins
+
+Greenhouse Potting Bench
+
+Chicken Coop Nesting Boxes
+
+Doghouse Entryway
+
+Bird Feeder Yard Tree
+
+Squirrel Baffle Post
+
+Front Door Welcome Mat
+
+Coat Rack Umbrella Stand
+
+Foyer Mirror Console
+
+Fireplace Hearth Rug
+
+Bookshelf Wall Library
+
+Window Sill Flower Box
+
+Kitchen Spice Rack Drawer
+
+Refrigerator Door Magnet Board
+
+Kitchen Sink Dish Rack
+
+Breakfast Nook Bench
+
+Under-Bed Storage Bin
+
+Attic Trunk Box
+
+Garage Rafter Storage
+
+Tool Bench Pegboard
+
+Lawn Mower Parking Corner
+
+Bicycle Wall Rack Garage
+
+Trash Can Curb Station
+
+Recycling Bin Kitchen Area
+
+Mudroom Boot Bench
+
+Pet Food Bowl Corner
+
+Cat Scratching Post Space
+
+Hamster Cage Table
+
+Fish Tank Stand
+
+Indoor Plant Shelf
+
+Guest Bathroom Hand Sink
+
+Hallway Family Photo Wall
+
+Home Safe Hidden Corner
+
+Fuse Box Basement Wall
+
+Water Heater Closet
+
+Air Conditioning Unit Outside
+
+Solar Panel Roof Rack
+
+Attic Fan Hatch
+
+Chimney Flue Area
+
+Garden Hose Reel Post
+
+Backyard Fire Pit Circle
+
+Airport Terminal
+
+Airport Security Line
+
+Baggage Claim Carousel
+
+Airport Boarding Gate
+
+Jet Bridge
+
+Airplane Cabin
+
+Airplane First Class Lounge
+
+Airport Runway
+
+Air Traffic Control Tower
+
+Train Station Platform
+
+Passenger Train Car
+
+Train Dining Car
+
+Train Sleeping Compartment
+
+Subway Car
+
+Subway Ticket Barrier
+
+Bus Terminal
+
+City Bus Interior
+
+Double-Decker Tour Bus
+
+School Bus Interior
+
+Tram Car
+
+Cable Car Station
+
+Funicular Railway
+
+Monorail Station
+
+Monorail Train Interior
+
+Cruise Ship Deck
+
+Cruise Ship Atrium
+
+Cruise Ship Cabin
+
+Ocean Liner Dining Room
+
+Ferry Boat Car Deck
+
+Ferry Passenger Lounge
+
+Riverboat Paddle Wheel Area
+
+Water Taxi
+
+Gondola (Venetian)
+
+Cargo Ship Bridge
+
+Harbor Marina Dock
+
+Lighthouse Lantern Room
+
+Coast Guard Cutter
+
+Lifeboat Station
+
+Canal Lock System
+
+Sea Port Container Terminal
+
+Hotel Lobby
+
+Hotel Reception Desk
+
+Hotel Bellhop Station
+
+Hotel Guest Room
+
+Hotel Penthouse Suite
+
+Hotel Elevator Lobby
+
+Hotel Swimming Pool Deck
+
+Hotel Laundry Facility
+
+Motel Corridor (Outdoor)
+
+Bed and Breakfast Dining Room
+
+Youth Hostel Dorm
+
+Mountain Eco-Lodge
+
+Ski Resort Chalet
+
+Beach Resort Cabana
+
+Desert Glamping Tent
+
+Treehouse Resort Cabin
+
+Ice Hotel Room
+
+Highway Rest Stop
+
+Gas Station Pump Island
+
+Electric Vehicle Charging Station
+
+Car Rental Counter
+
+Taxi Stand
+
+Valet Parking Drop-off
+
+Highway Toll Booth Lane
+
+Suspension Bridge Walkway
+
+Underwater Traffic Tunnel
+
+Mountain Pass Overlook
+
+Train Caboose
+
+Steam Locomotive Cab
+
+Freight Train Boxcar
+
+Bicycle Rental Stand
+
+Scooter Parking Zone
+
+Rickshaw Seat
+
+Horse-Drawn Carriage
+
+Dog Sled Trail
+
+Camel Caravan Path
+
+Helicopter Pad
+
+Helicopter Cabin
+
+Hot Air Balloon Basket
+
+Airship (Blimp) Gondola
+
+Spaceport Passenger Lounge
+
+Spaceship Passenger Cabin
+
+Custom Checkpoint
+
+Passport Control Counter
+
+Duty-Free Shopping Aisle
+
+Luggage Storage Room
+
+Travel Agency Desk
+
+Tourist Information Office
+
+Souvenir Shop Alcove
+
+Postcard Stand Corner
+
+Hotel Conference Center
+
+Grand Ballroom
+
+Banquet Hall Buffet
+
+Hotel Room Service Kitchen
+
+Concierge Desk
+
+Hotel Gym Room
+
+Motel Ice Machine Corner
+
+Camp Ground Registration Cabin
+
+Wilderness Trail Shelter
+
+Cruise Ship Captain’s Bridge
+
+Pine Forest
+
+Rainforest
+
+Redwood Grove
+
+Birch Forest
+
+Bamboo Jungle
+
+Jungle Canopy
+
+Desert Oasis
+
+Sand Dunes
+
+Cactus Desert
+
+Rocky Mountain Peak
+
+Snow-Capped Mountain
+
+Volcanic Crater
+
+Lava Tube Cave
+
+Limestone Cavern
+
+Stalactite Cave
+
+Underground River
+
+Geyser Field
+
+Hot Spring Pool
+
+Mud Pot Area
+
+Waterfall Basin
+
+River Rapid
+
+River Delta
+
+Swampland
+
+Mangrove Swamp
+
+Marshy Wetland
+
+Cattail Pond
+
+Lily Pad Lake
+
+Alpine Lake
+
+Crater Lake
+
+Ocean Beach
+
+Sandy Cove
+
+Tide Pool
+
+Coral Reef
+
+Deep Ocean Trench
+
+Kelp Forest
+
+Iceberg Alley
+
+Glacier Face
+
+Tundra Meadow
+
+Prairie Grassland
+
+Savanna Watering Hole
+
+Canyon Floor
+
+Mesa Top
+
+Natural Stone Arch
+
+Clover Field
+
+Wildflower Meadow
+
+Sunflower Field
+
+Lavender Field
+
+Tulip Farm
+
+Apple Orchard
+
+Cherry Blossom Grove
+
+Orange Grove
+
+Vineyard
+
+Olive Grove
+
+Wheat Field
+
+Corn Maze
+
+Rice Paddy
+
+Pumpkin Patch
+
+Berry Patch (Picking)
+
+Vegetable Farm
+
+Dairy Farm Barn
+
+Milking Parlor
+
+Chicken Coop
+
+Pigpen
+
+Sheep Pasture
+
+Horse Paddock
+
+Hay Loft
+
+Farm Silo
+
+Windmill Pump
+
+Tractor Shed
+
+Farmhouse Porch
+
+Greenhouse Conservatory
+
+Hydroponic Greenhouse
+
+Fish Hatchery
+
+Oyster Farm Bed
+
+Seaweed Farm
+
+Cranberry Bog
+
+Maple Syrup Sugar Shack
+
+Lumberjack Camp
+
+Tree Nursery
+
+Christmas Tree Farm
+
+Forest Fire Lookout Tower
+
+Park Ranger Station
+
+Nature Trail Board walk
+
+Bird Watching Blind
+
+Wildlife Viewing Platform
+
+Campground Tent Site
+
+Campfire Circle
+
+Log Cabin
+
+RV Park Lot
+
+Picnic Grove
+
+Public Park Pavilion
+
+Botanical Garden Greenhouse
+
+Rose Garden
+
+Maze Hedge
+
+Japanese Zen Garden
+
+Rock Garden
+
+Butterfly House
+
+Aviary Cage
+
+Petting Zoo Arena
+
+Safari Park Jeep Trail
+
+Olympic Swimming Pool
+
+Diving Board Platform
+
+Water Park Wave Pool
+
+Lazy River
+
+Water Slide Tower
+
+Gym Weight Room
+
+Cardio Deck
+
+Yoga Studio
+
+Pilates Room
+
+Spin Class Studio
+
+Basketball Court
+
+Tennis Court
+
+Volleyball Court (Sand)
+
+Badminton Court
+
+Pickleball Court
+
+Soccer Field
+
+Football Stadium
+
+Baseball Diamond
+
+Softball Field
+
+Cricket Pitch
+
+Rugby Field
+
+Hockey Rink
+
+Ice Skating Rink
+
+Speed Skating Oval
+
+Curling Rink
+
+Ski Slope
+
+Ski Lift Chair
+
+Ski Lodge Lounge
+
+Snowboard Halfpipe
+
+Bobsled Track
+
+Ski Jump Ramp
+
+Ice Climbing Wall
+
+Indoor Rock Climbing Gym
+
+Bouldering Cave
+
+Mountaineering Base Camp
+
+Hiking Trailhead
+
+Fitness Trail (Parcours)
+
+Marathon Starting Line
+
+Track and Field Oval
+
+High Jump Mat
+
+Pole Vault Pit
+
+Long Jump Sandpit
+
+Discus Throw Circle
+
+Golf Course Green
+
+Golf Sand Trap
+
+Disc Golf Course
+
+Bowling Alley Lane
+
+Billiard Room
+
+Ping Pong Table Arena
+
+Foosball Tournament Hall
+
+Air Hockey Table Corner
+
+Skatepark Halfpipe
+
+BMX Track
+
+Velodrome (Cycling Track)
+
+Motocross Track
+
+Go-Kart Pit Lane
+
+Rowing Club Dock
+
+Kayak Slalom Course
+
+Whitewater Rafting River
+
+Sailing Marina
+
+Windsurfing Beach
+
+Surfing Break
+
+Scuba Diving Boat
+
+Snorkeling Reef
+
+Deep Sea Fishing Charter
+
+Fly Fishing Stream
+
+Archery Range
+
+Fencing Piste
+
+Boxing Ring
+
+Wrestling Mat
+
+Judo Dojo
+
+Tai Chi Park Area
+
+Cheerleading Practice Floor
+
+Gymnastics Balance Beam
+
+Uneven Bars Station
+
+Pommel Horse Area
+
+Trampoline Center
+
+Trapeze School
+
+Roller Skating Rink
+
+Roller Derby Track
+
+Soapbox Derby Track
+
+Dog Agility Course
+
+Equestrian Show Ring
+
+Horse Racing Track
+
+Polo Field
+
+Rodeo Arena
+
+Bullpen (Baseball)
+
+Dugout (Baseball)
+
+Penalty Box (Hockey)
+
+Locker Room
+
+Team Bus
+
+Sports Medicine Clinic
+
+Physical Therapy Gym
+
+Stadium Press Box
+
+Broadcaster's Booth
+
+Referee Locker Room
+
+Trophy Room
+
+Hall of Fame
+
+Tailgating Parking Lot
+
+Ticket Turnstile Gate
+
+Preschool Classroom
+
+Kindergarten Sandbox
+
+Elementary School Classroom
+
+Middle School Locker Hallway
+
+High School Biology Lab
+
+Chemistry Lab
+
+Physics Lab
+
+Computer Lab
+
+School Library
+
+Principal's Office
+
+Counselor's Office
+
+Nurse's Station
+
+Teacher's Lounge
+
+School Gymnasium
+
+Auditorium
+
+Cafeteria Kitchen
+
+Playground Swings
+
+School Bus
+
+College Lecture Hall
+
+University Quad
+
+Dormitory Room
+
+Student Union
+
+Professor's Office
+
+Research Laboratory
+
+Clean Room (Microchips)
+
+Observatory Dome
+
+Weather Balloon Launchpad
+
+Seismology Station
+
+Volcanology Post
+
+Marine Biology Lab
+
+Coral Reef Research Station
+
+Arctic Research Base
+
+Antarctic Ice Core Lab
+
+Desert Research Outpost
+
+Rainforest Canopy Station
+
+Archaeological Dig Site
+
+Paleontology Lab
+
+Dinosaur Fossil Quarry
+
+Ancient Ruins Site
+
+Mummy Tomb (Museum Site)
+
+Botany Greenhouse
+
+Hydroponics Lab
+
+Agricultural Test Field
+
+Veterinary Clinic
+
+Animal Hospital Surgery
+
+Wildlife Rehabilitation Center
+
+Bird Banding Station
+
+Insectary (Bug Lab)
+
+Beekeeping Apiary
+
+Ant Farm Lab
+
+Robotics Workshop
+
+Drone Testing Field
+
+3D Printing Lab
+
+Laser Cutting Studio
+
+Mechanical Engineering Garage
+
+Wind Tunnel Facility
+
+Flight Simulator Room
+
+Rocket Launch Control Center
+
+Space Shuttle Assembly Building
+
+Astronaut Training Pool
+
+Centrifuge Chamber
+
+Mission Control Center
+
+Satellite Tracking Station
+
+Radio Telescope Array
+
+Particle Accelerator Tunnel
+
+Nuclear Power Control Room
+
+Hydroelectric Dam Turbine Room
+
+Solar Power Farm
+
+Wind Turbine Nacelle
+
+Geothermal Power Station
+
+Cryptography Center
+
+Supercomputer Facility
+
+Virtual Reality Development Lab
+
+Artificial Intelligence Lab
+
+Coding Bootcamp Classroom
+
+Math Competition Hall
+
+Spelling Bee Stage
+
+Science Fair Gymnasium
+
+Geography Bee Room
+
+Debate Club Classroom
+
+School Art Studio
+
+Woodshop Class
+
+Metalshop Class
+
+Home Economics Kitchen
+
+Typing Class
+
+Language Lab
+
+School Greenhouse
+
+Astronomy Deck
+
+Graduation Stage
+
+Alumni Center
+
+Campus Bookstore
+
+Registrar's Office
+
+Financial Aid Office
+
+Exam Hall
+
+Study Room
+
+Periodical Archive
+
+Microfilm Room
+
+Rare Books Vault
+
+Literacy Center
+
+Educational Summer Camp
+
+Art Museum
+
+History Museum
+
+Science Center
+
+Children's Museum
+
+Natural History Museum
+
+Planetarium
+
+Space Museum
+
+Aviation Museum
+
+Maritime Museum
+
+Train Museum
+
+Wax Museum
+
+Illusion Museum
+
+Contemporary Art Gallery
+
+Sculpture Garden
+
+Pottery Studio
+
+Glassblowing Studio
+
+Painting Classroom
+
+Photography Studio
+
+Movie Theater
+
+Drive-In Theater
+
+IMAX Theater
+
+Projection Booth
+
+Concession Stand
+
+Broadway Theater
+
+Opera House
+
+Ballet Theater
+
+Symphony Concert Hall
+
+Backstage Dressing Room
+
+Theater Green Room
+
+Costume Wardrobe Room
+
+Prop Warehouse
+
+Orchestra Pit
+
+Stage Wings
+
+Catwalks (Theater)
+
+Ticket Office
+
+Amphitheater
+
+Puppet Theater
+
+Marionette Workshop
+
+Magic Shop
+
+Magician's Stage
+
+Circus Tent
+
+Circus Ring
+
+Trapeze Rig
+
+Clown Dressing Room
+
+Carnival Midway
+
+Ferris Wheel
+
+Roller Coaster Queue
+
+Merry-Go-Round
+
+Haunted Mansion (Ride)
+
+Funhouse Mirror Maze
+
+Log Flume Ride
+
+Bumper Car Arena
+
+Arcade Hall
+
+Bowling Alley
+
+Laser Tag Arena
+
+Paintball Field
+
+Escape Room
+
+Virtual Reality Arcade
+
+Miniature Golf Course
+
+Driving Range
+
+Go-Kart Track
+
+Trampoline Park
+
+Indoor Playground
+
+Bounce House
+
+Recording Studio
+
+Radio Broadcasting Station
+
+Television Studio
+
+Newsroom
+
+Weather Forecast Set
+
+Game Show Set
+
+Talk Show Set
+
+Movie Set (Western)
+
+Movie Set (Sci-Fi)
+
+Animation Studio
+
+Foley Sound Stage
+
+Video Editing Suite
+
+Dance Studio
+
+Ballet Barre Room
+
+Karate Dojo
+
+Gymnastics Training Center
+
+Community Talent Show
+
+Battle of the Bands
+
+Karaoke Room
+
+Piano Lounge
+
+Jazz Club (Family-Friendly)
+
+Renaissance Faire
+
+Medieval Tournament Arena
+
+Jousting Field
+
+Puppet Show Stand
+
+Street Performer Circle
+
+Origami Workshop
+
+Calligraphy Studio
+
+Ice Sculpture Exhibition
+
+Sandcastle Competition Beach
+
+Kite Flying Festival
+
+Hot Air Balloon Rally
+
+Laser Light Show
+
+Fireworks Launch Site
+
+Parade Float Warehouse
+
+Festival Main Stage
+
+Italian Restaurant
+
+Mexican Diner
+
+Chinese Buffet
+
+Japanese Sushi Bar
+
+French Bistro
+
+Indian Curry House
+
+Thai Kitchen
+
+Greek Taverna
+
+American Diner
+
+Fast Food Drive-Thru
+
+Pizzeria
+
+Burger Joint
+
+Steakhouse
+
+Seafood Shack
+
+Barbecue Pit
+
+Pancake House
+
+Waffle Cabin
+
+Coffee Shop
+
+Espresso Bar
+
+Tea Room
+
+Cat Café
+
+Board Game Café
+
+Internet Café
+
+Bakery Café
+
+Salad Bar
+
+Soup Kitchen
+
+Ramen Shop
+
+Noodle Bar
+
+Dim Sum Restaurant
+
+Hot Pot Restaurant
+
+Korean BBQ Grill
+
+Taco Truck
+
+Burrito Stand
+
+Sandwich Shop
+
+Deli Counter
+
+Sub Marine Sandwich Shop
+
+Bagel Shop
+
+Creperie
+
+Fondue Restaurant
+
+Vegetarian Restaurant
+
+Vegan Bakery
+
+Gluten-Free Diner
+
+Farm-to-Table Restaurant
+
+Fine Dining Establishment
+
+Rooftop Restaurant
+
+Revolving Sky Restaurant
+
+Underwater Restaurant
+
+Dinner Theater
+
+Medieval Feast Hall
+
+Pirate Dinner Adventure
+
+Buffet Line
+
+Salad Station
+
+Dessert Table
+
+Chocolate Fountain Display
+
+Commercial Kitchen
+
+Walk-In Freezer
+
+Restaurant Pantry
+
+Dishwashing Station
+
+Chef's Table
+
+Culinary School Kitchen
+
+Catering Prep Hall
+
+Food Testing Lab
+
+Pizzeria Prep Counter
+
+Wood-Fired Pizza Oven
+
+Bakery Oven Room
+
+Pastry Decorating Room
+
+Cake Studio
+
+Ice Cream Parlor Counter
+
+Soda Fountain
+
+Milkshake Bar
+
+Juice Pressing Room
+
+Coffee Roasting Room
+
+Tea Blending Room
+
+Spice Grinding Mill
+
+Grain Silo
+
+Flour Mill
+
+Sugar Refinery
+
+Salt Mine Kitchen
+
+Cheese Aging Cave
+
+Dairy Processing Plant
+
+Milk Bottling Station
+
+Ice Factory
+
+Fish Smoking Shack
+
+Meat Curing Room
+
+Sausage Factory
+
+Pretzel Twisting Factory
+
+Tortilla Factory
+
+Potato Chip Factory
+
+Candy Cane Factory
+
+Jelly Bean Plant
+
+Marshmallow Factory
+
+Popcorn Popping Facility
+
+Breakfast Cereal Factory
+
+Canning Factory
+
+Frozen Food Packing Plant
+
+Meal Kit Assembly Line
+
+School Cafeteria
+
+University Dining Hall
+
+Hospital Cafeteria
+
+Airplane Galley
+
+Grocery Store
+
+Supermarket
+
+Toy Store
+
+Candy Shop
+
+Bakery
+
+Ice Cream Parlor
+
+Bookstore
+
+Clothing Boutique
+
+Shoe Store
+
+Department Store
+
+Mall Food Court
+
+Hardware Store
+
+Pet Shop
+
+Electronics Store
+
+Jewelry Store
+
+Florist
+
+Antique Shop
+
+Souvenir Stand
+
+Comic Book Shop
+
+Hobby Store
+
+Game Shop
+
+Music Store
+
+Instrument Workshop
+
+Bicycle Shop
+
+Sporting Goods Store
+
+Camping Supply Outlet
+
+Outdoor Outfitter
+
+Garden Center
+
+Plant Nursery
+
+Furniture Showroom
+
+Mattress Store
+
+Appliance Center
+
+Carpet Showroom
+
+Paint Store
+
+Lumber Yard
+
+Auto Parts Store
+
+Car Dealership
+
+Used Car Lot
+
+Gas Station Convenience Store
+
+Pharmacy
+
+Optical Shop
+
+Hair Salon
+
+Barber Shop
+
+Nail Salon
+
+Day Spa
+
+Laundromat
+
+Dry Cleaners
+
+Tailor Shop
+
+Shoe Repair Shop
+
+Clock & Watch Repair
+
+Locksmith Shop
+
+Key Cutting Kiosk
+
+Photo Development Lab
+
+Framing Shop
+
+Art Supply Store
+
+Craft Store
+
+Fabric Shop
+
+Yarn Boutique
+
+Thrift Store
+
+Consignment Shop
+
+Pawn Shop
+
+Dollar Store
+
+Big Box Warehouse
+
+Shopping Mall Arcade
+
+Beauty Supply Store
+
+Perfume Counter
+
+Cosmetics Boutique
+
+Luggage Store
+
+Hat Shop
+
+Bridal Boutique
+
+Tuxedo Rental Shop
+
+Costume Shop
+
+Party Supply Store
+
+Stationery Shop
+
+Card Store
+
+Gift Wrapping Station
+
+Coffee Roastery
+
+Tea Shop
+
+Spice Market
+
+Cheese Shop
+
+Butcher Shop
+
+Seafood Market
+
+Fruit Stand
+
+Juice Bar
+
+Smoothie Shop
+
+Donut Shop
+
+Bagel Bakery
+
+Chocolate Factory Outlet
+
+Popcorn Kiosk
+
+Cotton Candy Cart
+
+Hot Dog Stand
+
+Ice Cream Truck
+
+Food Truck Rally
+
+Souvenir Cart
+
+Sunglasses Kiosk
+
+Umbrella Stand
+
+Luggage Claim Kiosk
+
+Duty-Free Shop
+
+Airport Gift Shop
+
+Hotel Gift Shop
+
+City Hall
+
+Public Library
+
+Central Park
+
+Times Square
+
+Subway Station
+
+Post Office
+
+Police Station
+
+Fire Station
+
+Courthouse
+
+Community Center
+
+Skyscraper Roof
+
+Pedestrian Mall
+
+Botanical Garden
+
+Public Fountain
+
+Clock Tower
+
+Bus Stop
+
+Train Station
+
+Information Kiosk
+
+Historic Monument
+
+City Square
+
+Multi-Level Parking Garage
+
+Skate Park
+
+Dog Park
+
+Bicycle Lane
+
+Alleyway
+
+Main Street
+
+Crosswalk
+
+Visitor Center
+
+Flea Market
+
+Farmer's Market
+
+Newsstand
+
+Subway Tunnel
+
+Construction Site
+
+Architecture Firm
+
+City Archives
+
+Local DMV
+
+Public Restroom
+
+Bank Vault
+
+ATM Lobby
+
+Tax Office
+
+Embassy
+
+Consulate
+
+Immigration Office
+
+City Water Tower
+
+Power Grid Substation
+
+Sewer System
+
+Recycling Center
+
+Garbage Dump
+
+Water Treatment Plant
+
+Weather Bureau
+
+Traffic Control Room
+
+Lost and Found Office
+
+Street Corner Bistro
+
+Community Garden
+
+Neighborhood Block Party
+
+City Pier
+
+Financial District
+
+Stock Exchange Floor
+
+Corporate Headquarters
+
+Office Cubicle Farm
+
+Boardroom
+
+Executive Suite
+
+Breakroom
+
+Mailroom
+
+Printing Shop
+
+Blueprint Room
+
+Press Conference Room
+
+Public Relations Office
+
+Marketing Agency
+
+Accounting Firm
+
+Legal Office
+
+Real Estate Agency
+
+Insurance Office
+
+Travel Agency
+
+Job Fair
+
+Employment Office
+
+Business Incubator
+
+Co-working Space
+
+Tech Startup Office
+
+IT Help Desk
+
+Server Room
+
+Call Center
+
+Data Warehouse
+
+Shipping Dock
+
+Wholesale Market
+
+Flower District
+
+Fashion District
+
+Theater District
+
+Chinatown
+
+Little Italy
+
+Historic District
+
+Arts District
+
+Waterfront Promenade
+
+Boardwalk
+
+Pedestrian Bridge
+
+Overpass
+
+Underground Mall
+
+Skybridge
+
+Toll Booth
+
+City Limits Sign

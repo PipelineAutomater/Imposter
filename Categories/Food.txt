@@ -1,0 +1,1999 @@
+Cold Whole Milk
+
+Chocolate Milk
+
+Strawberry Milk
+
+Skim Milk
+
+Almond Milk
+
+Soy Milk
+
+Oat Milk
+
+Ice Water with Lemon
+
+Sparkling Water (Perrier)
+
+Lime Seltzer
+
+Orange Juice (No Pulp)
+
+Orange Juice (With Pulp)
+
+Apple Juice
+
+Cranberry Juice
+
+Grape Juice
+
+Pineapple Juice
+
+Tomato Juice
+
+V8 Vegetable Juice
+
+Grapefruit Juice
+
+Pomegranate Juice
+
+Fruit Punch
+
+Lemonade
+
+Pink Lemonade
+
+Strawberry Lemonade
+
+Limeade
+
+Sweet Iced Tea
+
+Unsweetened Iced Tea
+
+Raspberry Iced Tea
+
+Green Iced Tea
+
+Arnold Palmer (Tea/Lemonade)
+
+Hot Black Coffee
+
+Coffee with Cream and Sugar
+
+Espresso Shot
+
+Caffè Latte
+
+Cappuccino
+
+Caramel Macchiato
+
+Café Mocha
+
+Americano
+
+Cold Brew Coffee
+
+Iced Coffee
+
+Frappuccino (Blended Coffee)
+
+Hot Earl Grey Tea
+
+Hot Green Tea
+
+Chamomile Herbal Tea
+
+Peppermint Hot Tea
+
+English Breakfast Tea
+
+Chai Latte
+
+Matcha Latte
+
+Hot Chocolate with Marshmallows
+
+White Hot Chocolate
+
+Hot Apple Cider
+
+Spiced Apple Cider
+
+Coca-Cola
+
+Diet Coke
+
+Coca-Cola Zero Sugar
+
+Pepsi
+
+Diet Pepsi
+
+Sprite
+
+Sprite Zero
+
+7Up
+
+Dr Pepper
+
+Diet Dr Pepper
+
+Mountain Dew
+
+Baja Blast Mountain Dew
+
+A&W Root Beer
+
+Barq's Root Beer
+
+Canada Dry Ginger Ale
+
+Seagram's Ginger Ale
+
+Orange Fanta
+
+Grape Fanta
+
+Cream Soda
+
+Blue Raspberry Slurpee
+
+Cherry ICEE
+
+Strawberry Smoothie
+
+Mango Smoothie
+
+Green Veggie Smoothie
+
+Banana Peanut Butter Smoothie
+
+Piña Colada Virgin Mocktail
+
+Shirley Temple Mocktail
+
+Roy Rogers Mocktail
+
+Virgin Mary Mocktail
+
+Gatorade (Fruit Punch Red)
+
+Gatorade (Cool Blue)
+
+Powerade (Mountain Berry Blast)
+
+Vitaminwater (Dragonfruit)
+
+Red Bull Energy Drink
+
+Monster Energy Drink
+
+Kombucha (Ginger Lemon)
+
+Aloe Vera Drink
+
+Coconut Water
+
+Chocolate Milkshake
+
+Vanilla Milkshake
+
+Strawberry Milkshake
+
+Oreo Cookies & Cream Milkshake
+
+Malted Milkshake
+
+Root Beer Float Liquid
+
+Eggnog (Non-Alcoholic)
+
+Barley Tea
+
+Boba Milk Tea with Tapioca Pearls
+
+Taro Bubble Tea
+
+Scrambled Eggs
+
+Fried Egg (Sunny Side Up)
+
+Over Easy Egg
+
+Poached Egg
+
+Hard Boiled Egg
+
+Soft Boiled Egg
+
+Cheese Omelet
+
+Western Omelet
+
+Veggie Omelet
+
+Egg White Omelet
+
+Eggs Benedict
+
+Eggs Florentine
+
+Crispy Bacon Strips
+
+Turkey Bacon Strips
+
+Sausage Links
+
+Sausage Patties
+
+Turkey Sausage
+
+Canadian Bacon
+
+Corned Beef Hash
+
+Buttermilk Pancakes
+
+Blueberry Pancakes
+
+Chocolate Chip Pancakes
+
+Banana Walnut Pancakes
+
+Belgian Waffles
+
+Chicken and Waffles
+
+French Toast
+
+Cinnamon French Toast Sticks
+
+Crepes (Nutella Strawberry)
+
+Hash Browns (Shredded)
+
+Home Fries (Cubed Potatoes)
+
+Tater Tots (Breakfast)
+
+Toasted Plain Bagel
+
+Bagel with Cream Cheese
+
+Bagel with Everything Seasoning
+
+Cinnamon Raisin Bagel
+
+Croissant with Butter
+
+English Muffin with Jam
+
+White Toast with Butter
+
+Wheat Toast
+
+Rye Toast
+
+Sourdough Toast
+
+Flaky Buttermilk Biscuit
+
+Biscuits and Sausage Gravy
+
+Blueberry Muffin
+
+Chocolate Chip Muffin
+
+Banana Nut Muffin
+
+Bran Muffin
+
+Apple Cinnamon Scone
+
+Glazed Cinnamon Roll
+
+Danishes (Cheese)
+
+Apple Turnover
+
+Bear Claw Pastry
+
+Pop-Tart (Strawberry)
+
+Toaster Strudel
+
+Oatmeal with Honey
+
+Oatmeal with Brown Sugar & Raisins
+
+Cream of Wheat
+
+Grits with Butter
+
+Cheesy Grits
+
+Cornflakes Cereal
+
+Frosted Flakes Cereal
+
+Cheerios
+
+Honey Nut Cheerios
+
+Froot Loops
+
+Cinnamon Toast Crunch
+
+Rice Krispies Cereal
+
+Lucky Charms
+
+Granola with Milk
+
+Greek Yogurt Parfait
+
+Strawberry Yogurt Cup
+
+Vanilla Yogurt Cup
+
+Acai Bowl with Fruit
+
+Smoothie Bowl
+
+Fresh Fruit Salad
+
+Grapefruit Half with Sugar
+
+Stewed Prunes
+
+Breakfast Burrito (Egg & Cheese)
+
+Breakfast Taco
+
+Breakfast Quesadilla
+
+Egg McMuffin Sandwich
+
+Bacon Egg and Cheese Biscuit
+
+Sausage Egg and Cheese Croissant
+
+Avocado Toast with Egg
+
+Lox and Capers Bagel
+
+Quiche Lorraine
+
+Spinach and Feta Quiche
+
+Frittata (Veggie)
+
+Shakshuka
+
+Toad in the Hole (Egg in Toast)
+
+Monte Cristo Sandwich
+
+Breakfast Pizza
+
+French Toast Casserole
+
+Hash Brown Casserole
+
+Monkey Bread
+
+Coffee Cake
+
+Doughnut Holes
+
+Beignets with Powdered Sugar
+
+Churros breakfast style
+
+Corned Beef Omelet
+
+Denver Omelet
+
+French Fries
+
+Crinkle Cut Fries
+
+Waffle Fries
+
+Curly Fries
+
+Sweet Potato Fries
+
+Tater Tots
+
+Onion Rings
+
+Mozzarella Sticks
+
+Jalapeño Poppers
+
+Potato Skins
+
+Fried Pickles
+
+Soft Pretzel with Cheese
+
+Hard Pretzels
+
+Potato Chips (Salted)
+
+BBQ Potato Chips
+
+Sour Cream and Onion Chips
+
+Tortilla Chips
+
+Corn Chips (Fritos)
+
+Cheese Puffs
+
+Nacho Cheese Doritos
+
+Cool Ranch Doritos
+
+Popcorn (Buttered)
+
+White Cheddar Popcorn
+
+Caramel Corn
+
+Animal Crackers
+
+Graham Crackers
+
+Goldfish Crackers
+
+Cheez-Its
+
+Ritz Crackers
+
+Saltine Crackers
+
+Wheat Thins
+
+Trail Mix
+
+Roasted Peanuts
+
+Honey Roasted Peanuts
+
+Cashews
+
+Almonds
+
+Pistachios
+
+Walnuts
+
+Sunflower Seeds
+
+Pumpkin Seeds (Pepitas)
+
+Beef Jerky
+
+Turkey Jerky
+
+Slim Jim Meat Stick
+
+Pork Rinds
+
+Hummus Platter
+
+Pita Chips
+
+Spinach Artichoke Dip
+
+French Onion Dip
+
+Guacamole Bowl
+
+Salsa Bowl
+
+Queso Cheese Dip
+
+Deviled Eggs
+
+Pigs in a Blanket
+
+Bruschetta Toast
+
+Stuffed Mushrooms
+
+Shrimp Cocktail
+
+Charcuterie Board
+
+Cheese Platter
+
+Fruit Platter
+
+Vegetable Crudité
+
+Coleslaw
+
+Potato Salad
+
+Macaroni Salad
+
+Egg Salad
+
+Baked Beans
+
+Mashed Potatoes and Gravy
+
+Roasted Red Potatoes
+
+Baked Potato (Loaded)
+
+Rice Pilaf
+
+Steamed White Rice
+
+Steamed Brown Rice
+
+Quinoa Salad
+
+Couscous Side
+
+Corn on the Cob
+
+Creamed Corn
+
+Succotash
+
+Roasted Broccoli
+
+Steamed Asparagus
+
+Sautéed Spinach
+
+Glazed Carrots
+
+Green Bean Casserole
+
+Sweet Potato Casserole
+
+Stuffing / Dressing
+
+Cranberry Sauce
+
+Applesauce Cup
+
+Jell-O Cube
+
+Cottage Cheese
+
+String Cheese
+
+Cheese Curds
+
+Fried Cheese Curds
+
+Cornbread Muffins
+
+Dinner Rolls
+
+Garlic Bread Slice
+
+Croissants (Mini)
+
+Breadsticks (Soft)
+
+Biscuits and Gravy Side
+
+Hushpuppies
+
+Fried Okra
+
+Collard Greens
+
+Macaroni and Cheese Side
+
+Grilled Ribeye Steak
+
+New York Strip Steak
+
+Filet Mignon
+
+T-Bone Steak
+
+Roast Beef
+
+Beef Brisket
+
+Pot Roast
+
+Meatloaf
+
+Beef Stew
+
+Beef Ribs
+
+BBQ Pork Ribs
+
+Pork Chops
+
+Pork Tenderloin
+
+Pulled Pork
+
+Honey Glazed Ham
+
+Roast Turkey Breast
+
+Fried Chicken Bucket
+
+Rotisserie Chicken
+
+Grilled Chicken Breast
+
+Chicken Wings (Buffalo)
+
+BBQ Chicken Wings
+
+Garlic Parmesan Wings
+
+Chicken Tenders
+
+Chicken Nuggets
+
+Chicken Pot Pie
+
+Chicken Kiev
+
+Chicken Cordon Bleu
+
+Roast Duck
+
+Cornish Game Hen
+
+Grilled Salmon Fillet
+
+Baked Cod
+
+Fried Catfish
+
+Halibut Steak
+
+Grilled Swordfish
+
+Pan-Seared Trout
+
+Tuna Steak
+
+Fried Shrimp Platter
+
+Coconut Shrimp
+
+Grilled Shrimp Skewers
+
+Steamed Lobster Tail
+
+King Crab Legs
+
+Snow Crab Clusters
+
+Maryland Crab Cakes
+
+Steamed Clams
+
+Mussels in Garlic Butter
+
+Fried Calamari Rings
+
+Pan-Seared Scallops
+
+Seafood Paella
+
+Jambalaya
+
+Gumbo (Seafood)
+
+Shepherd's Pie
+
+Cottage Pie
+
+Bangers and Mash
+
+Fish and Chips
+
+Gyro Meat Slices
+
+Lamb Chops
+
+Roast Leg of Lamb
+
+Beef Kabobs
+
+Chicken Kabobs
+
+Venison Steak
+
+Bison Burger
+
+Alligator Bites
+
+Frog Legs
+
+Peking Duck Breast
+
+Sweetbreads
+
+Beef Wellington
+
+Corned Beef Hash
+
+Pastrami Slices
+
+Polish Kielbasa
+
+Smoked Sausage Link
+
+Hot Dog
+
+Bratwurst
+
+Italian Meatballs
+
+Swedish Meatballs
+
+Salisbury Steak
+
+Country Fried Steak
+
+Chicken Fried Chicken
+
+Beef Stroganoff
+
+Goulash
+
+Stuffed Cabbage Rolls
+
+Stuffed Peppers (Beef & Rice)
+
+Shish Kabob
+
+Turkey Meatloaf
+
+Turkey Meatballs
+
+Chicken Piccata Chicken
+
+Popcorn Shrimp
+
+Soft Shell Crab Fried
+
+Clam Strip Basket
+
+Fish Sticks
+
+Crawfish Boil
+
+Shrimp Boil
+
+Clambake Pot
+
+Oyster Po'Boy Meat
+
+Raw Oysters on the Half Shell
+
+Rockefeller Oysters
+
+Steamed Mussels
+
+Seafood Bouillabaisse
+
+Pork Schnitzel
+
+Chicken Schnitzel
+
+Beef Bourguignon
+
+Hard Shell Beef Taco
+
+Soft Shell Chicken Taco
+
+Carne Asada Taco
+
+Al Pastor Taco
+
+Carnitas Taco
+
+Fish Taco with Cabbage Slaw
+
+Shrimp Taco
+
+Rice and Bean Burrito
+
+Shredded Beef Burrito
+
+Wet Burrito (Enchilada Style)
+
+Chicken Enchilada
+
+Beef Enchilada
+
+Cheese Enchilada
+
+Enchiladas Verdes
+
+Cheese Quesadilla
+
+Chicken Quesadilla
+
+Steak Quesadilla
+
+Fajitas (Sizzling Beef)
+
+Chicken Fajitas
+
+Shrimp Fajitas
+
+Nachos with Cheese
+
+Loaded Nachos (Beef & Beans)
+
+Tortilla Chips and Salsa
+
+Chips and Guacamole
+
+Chips and Queso Dip
+
+Tamale (Pork)
+
+Chicken Tamale
+
+Sweet Corn Tamale
+
+Tostada (Beef)
+
+Chicken Flautas
+
+Beef Taquitos
+
+Chimichanga (Fried Burrito)
+
+Taco Salad in a Tortilla Bowl
+
+Mexican Rice
+
+Refried Beans
+
+Black Beans
+
+Charro Beans
+
+Elote (Mexican Street Corn)
+
+Esquites (Corn in a Cup)
+
+Huevos Rancheros
+
+Chilaquiles
+
+Pozole (Soup)
+
+Menudo (Soup)
+
+Sopa de Fideo
+
+Tortilla Soup
+
+Carne Asada Platter
+
+Chile Relleno
+
+Mole Poblano Chicken
+
+Barbacoa Beef
+
+Birria Tacos
+
+Consomé (Broth)
+
+Torta (Mexican Sandwich)
+
+Cemita Sandwich
+
+Empanada (Beef)
+
+Chicken Empanada
+
+Cheese Empanada
+
+Queso Fundido
+
+Pico de Gallo
+
+Salsa Verde
+
+Salsa Roja
+
+Mango Salsa
+
+Habanero Hot Sauce
+
+Sour Cream Cup
+
+Jalapeño Slices (Pickled)
+
+Cilantro Lime Rice
+
+Sopapillas
+
+Churros with Chocolate
+
+Tres Leches Cake
+
+Caramel Flan
+
+Mexican Hot Chocolate
+
+Horchata
+
+Jamaica (Hibiscus Tea)
+
+Tamarindo Drink
+
+Agua Fresca (Watermelon)
+
+Chicharrónes
+
+Gorditas
+
+Sopes
+
+Chalupas
+
+Pupusas
+
+Arepas
+
+Plantains (Maduros)
+
+Tostones
+
+Yucca Fries
+
+Ceviche
+
+Shrimp Cocktail (Mexican Style)
+
+Camarones al Ajillo
+
+Fajita Veggies
+
+Pickled Red Onions
+
+Cotija Cheese Crumbles
+
+Queso Fresco
+
+Oaxaca Cheese String
+
+Mexican Wedding Cookies
+
+Bunuelos
+
+Mango with Chili Powder
+
+Jicama Sticks with Lime
+
+Chocoflan
+
+Pan Dulce
+
+Conchas
+
+Avocado Crema
+
+Refried Black Beans
+
+California Roll
+
+Spicy Tuna Roll
+
+Shrimp Tempura Roll
+
+Salmon Nigiri
+
+Tuna Sashimi
+
+Avocado Roll
+
+Cucumber Roll
+
+Dragon Roll
+
+Rainbow Roll
+
+Philadelphia Roll
+
+Chicken Teriyaki
+
+Beef Negimaki
+
+Shrimp Tempura Platter
+
+Vegetable Tempura
+
+Miso Soup
+
+Edamame Pods
+
+Gyoza (Dumplings)
+
+Pork Potstickers
+
+Vegetable Spring Roll
+
+Egg Roll
+
+Scallion Pancake
+
+Wonton Soup
+
+Hot and Sour Soup
+
+Egg Drop Soup
+
+General Tso's Chicken
+
+Orange Chicken
+
+Sweet and Sour Pork
+
+Beef and Broccoli
+
+Kung Pao Chicken
+
+Sesame Chicken
+
+Pepper Steak
+
+Moo Shu Pork
+
+Fried Rice (Chicken)
+
+Shrimp Fried Rice
+
+Vegetable Fried Rice
+
+Lo Mein Noodles
+
+Chow Mein
+
+Pad Thai
+
+Drunken Noodles
+
+Tom Yum Soup
+
+Green Curry Chicken
+
+Red Curry Beef
+
+Massaman Curry
+
+Chicken Satay Skewers
+
+Pho (Beef Noodle Soup)
+
+Vietnamese Summer Roll
+
+Ramen (Pork Belly)
+
+Shoyu Ramen
+
+Miso Ramen
+
+Udon Noodle Soup
+
+Soba Noodles
+
+Korean BBQ Short Ribs (Galbi)
+
+Bulgogi (Marinated Beef)
+
+Bibimbap Rice Bowl
+
+Kimchi Fried Rice
+
+Tteokbokki (Spicy Rice Cakes)
+
+Peking Duck
+
+Steamed Pork Buns (Baozi)
+
+BBQ Pork Buns (Cha Siu Bao)
+
+Shumai Dumplings
+
+Har Gow (Shrimp Dumplings)
+
+Soup Dumplings (Xiao Long Bao)
+
+Crab Rangoon
+
+Fried Wontons
+
+Fortune Cookie
+
+Almond Cookie
+
+Mochi Ice Cream
+
+Bubble Tea (Boba)
+
+Chicken Katsu
+
+Pork Tonkatsu
+
+Yakitori Skewers
+
+Takoyaki (Octopus Balls)
+
+Okonomiyaki (Savory Pancake)
+
+Seaweed Salad
+
+Agedashi Tofu
+
+Mapo Tofu
+
+Szechuan Green Beans
+
+Honey Walnut Shrimp
+
+Mongolian Beef
+
+Chicken Lettuce Wraps
+
+Shrimp Toast
+
+Dim Sum Platter
+
+Pineapple Fried Rice
+
+Mango Sticky Rice
+
+Scallion Oil Noodles
+
+Cold Sesame Noodles
+
+Dan Dan Noodles
+
+Singapore Mei Fun
+
+Japchae (Korean Glass Noodles)
+
+Korean Fried Chicken
+
+Mandu (Korean Dumplings)
+
+Chicken Adobo
+
+Lumpia (Filipino Spring Roll)
+
+Pancit Noodles
+
+Beef Rendang
+
+Nasi Goreng
+
+Satay Peanut Sauce
+
+Wasabi Paste
+
+Pickled Ginger
+
+Soy Sauce Dip
+
+Pepperoni Pizza
+
+Cheese Pizza
+
+Margherita Pizza
+
+Meat Lovers Pizza
+
+Supreme Pizza
+
+Hawaiian Pizza
+
+BBQ Chicken Pizza
+
+White Garlic Pizza
+
+Veggie Lovers Pizza
+
+Mushroom Pizza
+
+Buffalo Chicken Pizza
+
+Deep Dish Pizza
+
+Sicilian Slice
+
+Calzone
+
+Stromboli
+
+Pizza Bagel
+
+French Bread Pizza
+
+Pizza Roll
+
+Flatbread Pizza
+
+Spaghetti and Meatballs
+
+Lasagna
+
+Baked Ziti
+
+Fettuccine Alfredo
+
+Chicken Parmigiana
+
+Eggplant Parmigiana
+
+Veal Parmigiana
+
+Penne alla Vodka
+
+Macaroni and Cheese
+
+Ravioli (Cheese)
+
+Beef Ravioli
+
+Lobster Ravioli
+
+Spinach Tortellini
+
+Gnocchi
+
+Stuffed Shells
+
+Manicotti
+
+Linguine with Clam Sauce
+
+Shrimp Scampi
+
+Pasta Primavera
+
+Pesto Pasta
+
+Carbonara
+
+Bolognese Sauce over Pasta
+
+Marinara Sauce Dip
+
+Garlic Bread
+
+Garlic Knots
+
+Mozzarella Sticks
+
+Bruschetta
+
+Caprese Salad
+
+Caesar Salad
+
+Italian Wedding Soup
+
+Minestrone Soup
+
+Risotto (Mushroom)
+
+Arancini (Rice Balls)
+
+Polenta
+
+Chicken Piccata
+
+Chicken Marsala
+
+Cioppino (Seafood Stew)
+
+Minced Clams over Linguine
+
+Angel Hair Pasta
+
+Rigatoni Bake
+
+Bowtie Pasta with Peas
+
+Pasta Salad
+
+Calamari Fritti
+
+Fried Zucchini Coins
+
+Toasted Ravioli
+
+Stromboli Roll
+
+Panzerotti
+
+Focaccia Bread
+
+Ciabatta Roll
+
+Breadsticks
+
+Minced Garlic in Oil
+
+Prosciutto and Melon
+
+Antipasto Platter
+
+Salami Slices
+
+Pepperoni Slices
+
+Italian Sausage Link
+
+Meatball Slider
+
+Panzanella Salad
+
+Stuffed Peppers (Italian Style)
+
+Zucchini Boats
+
+Pasta Fagioli
+
+Tortellini in Broth
+
+Cacio e Pepe
+
+Pasta Puttanesca
+
+Clam Casino
+
+Mussels in White Wine Sauce
+
+Baked Clams
+
+Polenta Fries
+
+Minestrone Bowl
+
+Italian Submarine Sandwich
+
+Capicola Slices
+
+Mortadella Slices
+
+Sopressata
+
+Provolone Cheese Wedge
+
+Parmesan Cheese Wheel
+
+Asiago Cheese
+
+Gorgonzola Crumbles
+
+Ricotta Cheese Tub
+
+Fresh Mozzarella Ball
+
+Burrata Cheese
+
+Cannoli Dip
+
+Hamburger
+
+Cheeseburger
+
+Bacon Cheeseburger
+
+Veggie Burger
+
+Turkey Burger
+
+Chicken Salad Sandwich
+
+Tuna Melt
+
+Egg Salad Sandwich
+
+Peanut Butter and Jelly
+
+Grilled Cheese Sandwich
+
+BLT (Bacon, Lettuce, Tomato)
+
+Club Sandwich
+
+Turkey and Swiss Sub
+
+Roast Beef Sandwich
+
+Ham and Cheese Sliders
+
+Philly Cheesesteak
+
+Meatball Sub
+
+Italian Hoagie
+
+Chicken Parm Sub
+
+Sloppy Joe
+
+Pulled Pork Sandwich
+
+Beef Brisket Sandwich
+
+Reuben Sandwich
+
+Rachel Sandwich
+
+Cuban Sandwich (Cubano)
+
+French Dip Sandwich
+
+Monte Cristo
+
+Croque Monsieur
+
+Croque Madame
+
+Bánh Mì
+
+Falafel Wrap
+
+Gyro Wrap
+
+Chicken Caesar Wrap
+
+Buffalo Chicken Wrap
+
+Turkey Bacon Wrap
+
+Hummus and Veggie Wrap
+
+Breakfast Burrito
+
+Bean and Cheese Burrito
+
+Beef Burrito
+
+Chicken Quesadilla
+
+Cheese Quesadilla
+
+Soft Beef Taco
+
+Crunchy Chicken Taco
+
+Fish Taco
+
+Lobster Roll
+
+Crab Cake Sandwich
+
+Fried Fish Sandwich
+
+Shrimp Po' Boy
+
+Chicken Biscuit Sandwich
+
+Chicken Waffle Sandwich
+
+Panini (Tomato Mozzarella)
+
+Turkey Pesto Panini
+
+Caprese Sandwich
+
+Avocado Toast
+
+Bagel and Lox
+
+Egg and Cheese Bagel
+
+Sausage McMuffin
+
+English Muffin Sandwich
+
+Pita Pocket with Salad
+
+Shawarma Wrap
+
+Doner Kebab
+
+Fluffernutter Sandwich
+
+Grilled Chicken Breast Sandwich
+
+Crispy Chicken Sandwich
+
+Spicy Chicken Sandwich
+
+Patty Melt
+
+Slider Hamburgers
+
+Mushroom Swiss Burger
+
+BBQ Onion Ring Burger
+
+Hawaii Burger (with Pineapple)
+
+Black Bean Burger
+
+Salmon Burger
+
+Shrimp Burger
+
+Open-Faced Roast Beef
+
+Tuna Salad Sandwich
+
+Corned Beef on Rye
+
+Pastrami Sandwich
+
+Muffuletta Sandwich
+
+Cucumber Tea Sandwich
+
+Pimento Cheese Sandwich
+
+Pork Chop Sandwich
+
+Fried Bologna Sandwich
+
+Dagwood Sandwich
+
+Chili Dog
+
+Chicago Style Hot Dog
+
+Corn Dog
+
+Bratwurst in a Bun
+
+Italian Sausage with Peppers
+
+Knockwurst on a Roll
+
+Meatloaf Sandwich
+
+Breakfast Biscuit
+
+Steak Sandwich
+
+Gyro Pita
+
+Chicken Souvlaki Wrap
+
+Lettuce Wrap (Chicken)
+
+Southwestern Wrap
+
+Thai Peanut Chicken Wrap
+
+Burrito Bowl (Deconstructed Wrap)
+
+Chimichanga
+
+Enchilada
+
+Red Apple
+
+Yellow Banana
+
+Green Grapes
+
+Juicy Orange
+
+Fresh Strawberries
+
+Blueberries
+
+Raspberries
+
+Watermelon Slice
+
+Cantaloupe
+
+Honeydew Melon
+
+Sweet Peach
+
+Plum
+
+Red Cherry
+
+Green Pear
+
+Pineapple
+
+Mango
+
+Papaya
+
+Kiwi Fruit
+
+Avocado
+
+Pomegranate
+
+Fresh Fig
+
+Date
+
+Coconut
+
+Lime
+
+Lemon
+
+Grapefruit
+
+Tangerine
+
+Cranberries
+
+Blackberries
+
+Apricot
+
+Nectarine
+
+Guava
+
+Passion Fruit
+
+Dragon Fruit
+
+Star Fruit
+
+Lychee
+
+Persimmon
+
+Plantain
+
+Crisp Carrot
+
+Broccoli Floret
+
+Cauliflower
+
+Celery Stick
+
+Cucumber
+
+Red Tomato
+
+Cherry Tomato
+
+Iceberg Lettuce
+
+Spinach Leaves
+
+Kale
+
+Cabbage
+
+Brussels Sprouts
+
+Green Asparagus
+
+Green Beans
+
+Sugar Snap Peas
+
+Sweet Corn on the Cob
+
+Russet Potato
+
+Sweet Potato
+
+Red Onion
+
+Garlic Clove
+
+Green Bell Pepper
+
+Red Bell Pepper
+
+Yellow Bell Pepper
+
+Jalapeño Pepper
+
+Zucchini
+
+Yellow Squash
+
+Butternut Squash
+
+Spaghetti Squash
+
+Pumpkin
+
+Radish
+
+Turnip
+
+Beetroot
+
+Parsnip
+
+Artichoke
+
+Eggplant
+
+Okra
+
+White Mushroom
+
+Portobello Mushroom
+
+Shiitake Mushroom
+
+Bean Sprouts
+
+Water Chestnuts
+
+Bamboo Shoots
+
+Leek
+
+Shallot
+
+Chives
+
+Ginger Root
+
+Bok Choy
+
+Swiss Chard
+
+Watercress
+
+Arugula
+
+Endive
+
+Fennel Bulb
+
+Rhubarb
+
+Jicama
+
+Taro Root
+
+Cassava
+
+Yam
+
+Boysenberries
+
+Elderberries
+
+Kumquat
+
+Plantain Chips
+
+Sun-Dried Tomatoes
+
+Chocolate Chip Cookie
+
+Glazed Donut
+
+Strawberry Cupcake
+
+Vanilla Ice Cream Cone
+
+Apple Pie
+
+Cotton Candy
+
+Gummy Bears
+
+Chocolate Brownie
+
+Blueberry Muffin
+
+Cinnamon Roll
+
+Birthday Cake
+
+Red Velvet Cake
+
+Cheesecake
+
+Macaron
+
+Chocolate Truffle
+
+Marshmallow
+
+Lollipop
+
+Candy Cane
+
+Jelly Beans
+
+Lemon Tart
+
+Peach Cobbler
+
+Banana Split
+
+Hot Fudge Sundae
+
+Chocolate Pudding
+
+Crème Brûlée
+
+Tiramisu
+
+Cannoli
+
+Churros
+
+Baklava
+
+Eclair
+
+Croissant
+
+Bear Claw
+
+Fruitcake
+
+Gingerbread Man
+
+Sugar Cookie
+
+Oatmeal Raisin Cookie
+
+Snickerdoodle
+
+Peanut Butter Cup
+
+Fudge
+
+Toffee
+
+Caramel Apple
+
+Kettle Corn
+
+Pralines
+
+Rice Crispy Treat
+
+Key Lime Pie
+
+Pumpkin Pie
+
+Pecan Pie
+
+Banana Bread
+
+Zucchini Bread
+
+Pound Cake
+
+Angel Food Cake
+
+Fruit Tart
+
+Raspberry Sorbet
+
+Mango Water Ice
+
+Frozen Yogurt
+
+Gelato
+
+Milkshake
+
+Root Beer Float
+
+Ice Cream Sandwich
+
+Popsicle
+
+Soft Pretzel (Sweet)
+
+Waffle Cone
+
+Pavlova
+
+Whoopie Pie
+
+Moon Pie
+
+S'mores
+
+Chocolate Fondue
+
+Bread Pudding
+
+Tapioca Pudding
+
+Flan
+
+Panna Cotta
+
+Strawberry Shortcake
+
+Lava Cake
+
+Carrot Cake
+
+Sponge Cake
+
+Jelly Roll
+
+Danish Pastry
+
+Scone
+
+Shortbread
+
+Biscotti
+
+Gingerbread House
+
+Peppermint Bark
+
+Licorice Twists
+
+Sour Worms
+
+Jawbreakers
+
+Bubblegum
+
+Saltwater Taffy
+
+Butterscotch Drops
+
+Candied Orange Peel
+
+Marzipan Fruits
+
+Turkish Delight
+
+Chocolate Raisins
+
+Yogurt Pretzels
+
+Coconut Macaroon
+
+Thumbprint Cookie
+
+Linzer Cookie
+
+Black and White Cookie
+
+Boston Cream Pie
+
+Banoffee Pie
+
+Baked Alaska
