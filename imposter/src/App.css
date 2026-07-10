@@ -1,0 +1,18 @@
+.player-box {
+    background-color: #DCEAF7;
+    text-align: center;
+    border-width: 1%;
+    border-color: white;
+    border-style: solid;
+}
+#player-box-container {
+    display: grid;
+    grid-template-columns: 48% 48%;
+    padding: 1%;
+    background-color: #215F9A;
+    gap: 1%;
+    
+}
+body {
+    background-color: #DCEAF7;
+}
