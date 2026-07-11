@@ -1,0 +1,23 @@
+Motivation: playing imposter with my friends at lunch and getting the same words over and over again
+Though it’s a simple/small project, it’s a useful one
+Needed vscode, hackatime, git, github desktop (had to pull from my other computer and transfer files from one github account to the other), electronjs (which a friend recommended to me and I looked into, and I thought it would be good because I can use my comfortability with html/js/css web development and create a mobile app), installed and uninstalled react (because I don’t know how to integrate it with electronjs: still need to research that).
+Put prompts into Gemini to create Locations and Food files
+Used AI to help me learn how to do certain things with Javascript
+Reflection: 5/28/2026: after using ts for my knightshift, I think I should use it for imposter too because I like how it’s strongly typed
+Followed the electronjs documentation because as I am still learning how it works
+Began studying react using w3schools
+06/03/26
+I thoroughly followed electron’s documentation, but it didn’t install correctly. I used AI to help me web scrape answers, and I tried to understand some of the background code in the node_modules folder, but I couldn’t. I didn’t know where to find a raw binary to download and where to install either, so I scrapped the electron idea and switched purely to react.
+I initialized a React project and transferred some of my old HTML and React code to the new structure.
+06/04/26
+Chose to remove the table because I found that that would be inappropriate for my purpose of creating boxes representing players' names. I chose double-nested <div> instead, but I need to search if there are better semantic alternatives.
+First, I had to download Github desktop, VSCode, Hackatime, and the node binary (to avoid admin privilege requests out of a personal preference) and add the folder to the PATH environment variable via command line.
+I then used node to install the node package manager. I used the node package manager to install Electronjs in the hopes that I could make it a desktop app. I then installed React into the same node_modules folder. However, I had accidentally thought that I was supposed to include the node_modules folder in the node binary that I had downloaded, and after I realized that this was incorrect, I uninstalled it and installed it in the corresponding git-tracked folder.
+However, I did not know how to integrate React into ElectronJS, so I uninstalled React and followed the ElectronJS documentation to get started on the framework for my app. Despite thoroughly following the documentation, the terminal kept throwing me an error stating that it could not find the electron files when I was trying to import it into my files.
+I uninstalled Electron after some time trying to read the files in node_modules and searching up potential reasons and solutions for the error. I chose to stick to a React project for now.
+I initialized it as a React project, and tried to move my old files into their corresponding places, but I was having trouble with the import statement stating that it could not find the certain node modules that I was trying to import, despite following the exact instructions of various sources. I deleted my code and am attempting a fresh start with React and will attempt to study how to clearly separate frontend and backend processes while still allowing ts and tsx file type integration (which were also causing problems for me).
+I changed my mind: I want it to easily be able to transition into an offline mobile app, so separating backend and frontend is not a good idea for this project. Sole frontend is better.
+Challenge: Can’t upload a file once it is already running, but I wanted to pick a random file (category), so I imported one massive file of all the categories and their corresponding items. I delineate the categories and their items by beginning each new section with category:categoryName.
+6/5/26
+Was trying to link index.css to index.html but didn’t realize it was already linked to main.tsx, so I restarted all of my CSS after playing around with various color and rounding properties of a CSS grid so that I could take the time to understand how these things are linked and how they overlap and have a fresh start.
+Went with terrible purple color scheme, but I thought I would come back to that later because I want to finish the functionality and worry about the UI later. An area of improvement is my design/art skills.
