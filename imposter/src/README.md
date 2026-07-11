@@ -4,4 +4,4 @@ This project displays a random word and a random category. My hope is that other
 
 Users can add categories and words to the Categories.txt file in the assets folder. However, the code currently only works if there are one thousand words in each category, the category title has "Category:" before it, and there are new lines after each line of text.
 
-After downloading, go the command line and change the directory to the imposter (not Imposter) directory. Make sure you have node package manager installed. Run the command "npm run" to run the project.
+After downloading, go the command line and change the directory to the imposter (not Imposter) directory. Make sure you have node package manager installed. Run the command "npm run dev" to run the project.
